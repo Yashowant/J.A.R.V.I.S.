@@ -27,6 +27,6 @@ Run this code in Terminal.
 
 CONGRATULATIONS, YOU HAVE FINALLY CREATED AI Chatbot PYTHON!!!
 
-Go to this:- https://www.youtube.com/@Lurax_Gamer?sub_confirmation=1 See this:- 
+Go to this:- https://www.youtube.com/@Lurax_Gamer?sub_confirmation=1     See this:- https://youtu.be/Md8YzrNyhEE
 
 #AI@Text#
